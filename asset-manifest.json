@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CryptoLand/static/css/main.cfd2a0d8.chunk.css",
-    "main.js": "/CryptoLand/static/js/main.f9f3f06b.chunk.js",
-    "main.js.map": "/CryptoLand/static/js/main.f9f3f06b.chunk.js.map",
+    "main.css": "/CryptoLand/static/css/main.7124031a.chunk.css",
+    "main.js": "/CryptoLand/static/js/main.7f71ccaa.chunk.js",
+    "main.js.map": "/CryptoLand/static/js/main.7f71ccaa.chunk.js.map",
     "runtime-main.js": "/CryptoLand/static/js/runtime-main.89e76a0e.js",
     "runtime-main.js.map": "/CryptoLand/static/js/runtime-main.89e76a0e.js.map",
-    "static/css/2.4be38407.chunk.css": "/CryptoLand/static/css/2.4be38407.chunk.css",
-    "static/js/2.d0597fa2.chunk.js": "/CryptoLand/static/js/2.d0597fa2.chunk.js",
-    "static/js/2.d0597fa2.chunk.js.map": "/CryptoLand/static/js/2.d0597fa2.chunk.js.map",
+    "static/css/2.d44d9e5f.chunk.css": "/CryptoLand/static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.fa37d4ca.chunk.js": "/CryptoLand/static/js/2.fa37d4ca.chunk.js",
+    "static/js/2.fa37d4ca.chunk.js.map": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.map",
     "index.html": "/CryptoLand/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/CryptoLand/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.cfd2a0d8.chunk.css.map": "/CryptoLand/static/css/main.cfd2a0d8.chunk.css.map",
-    "static/js/2.d0597fa2.chunk.js.LICENSE.txt": "/CryptoLand/static/js/2.d0597fa2.chunk.js.LICENSE.txt",
+    "static/css/2.d44d9e5f.chunk.css.map": "/CryptoLand/static/css/2.d44d9e5f.chunk.css.map",
+    "static/css/main.7124031a.chunk.css.map": "/CryptoLand/static/css/main.7124031a.chunk.css.map",
+    "static/js/2.fa37d4ca.chunk.js.LICENSE.txt": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.LICENSE.txt",
     "static/media/h2-bit-l.ccaef87c.png": "/CryptoLand/static/media/h2-bit-l.ccaef87c.png",
     "static/media/h2-bit-m.9410d5d2.png": "/CryptoLand/static/media/h2-bit-m.9410d5d2.png",
     "static/media/intro.97a14e92.png": "/CryptoLand/static/media/intro.97a14e92.png",
@@ -20,9 +20,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.89e76a0e.js",
-    "static/css/2.4be38407.chunk.css",
-    "static/js/2.d0597fa2.chunk.js",
-    "static/css/main.cfd2a0d8.chunk.css",
-    "static/js/main.f9f3f06b.chunk.js"
+    "static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.fa37d4ca.chunk.js",
+    "static/css/main.7124031a.chunk.css",
+    "static/js/main.7f71ccaa.chunk.js"
   ]
 }
