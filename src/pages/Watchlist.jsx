@@ -221,7 +221,7 @@ const Watchlist = () => {
                                             <tr>
                                                 <td>{id + 1}</td>
                                                 <td> <img className='coin-img' src={ele.image} alt='icon' /></td>
-                                                <td>{ele.name}</td>
+                                                <td className='name'>{ele.name}</td>
                                                 <td>{ele.symbol}</td>
                                                 <td>{ele.current_price.toLocaleString('en-IN')}</td>
                                                 {ele.price_change_percentage_24h < 0 ?
