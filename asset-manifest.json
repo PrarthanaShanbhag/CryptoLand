@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CryptoLand/static/css/main.c596cb8d.chunk.css",
-    "main.js": "/CryptoLand/static/js/main.7f71ccaa.chunk.js",
-    "main.js.map": "/CryptoLand/static/js/main.7f71ccaa.chunk.js.map",
+    "main.css": "/CryptoLand/static/css/main.c7dfda24.chunk.css",
+    "main.js": "/CryptoLand/static/js/main.4ff08058.chunk.js",
+    "main.js.map": "/CryptoLand/static/js/main.4ff08058.chunk.js.map",
     "runtime-main.js": "/CryptoLand/static/js/runtime-main.89e76a0e.js",
     "runtime-main.js.map": "/CryptoLand/static/js/runtime-main.89e76a0e.js.map",
     "static/css/2.d44d9e5f.chunk.css": "/CryptoLand/static/css/2.d44d9e5f.chunk.css",
@@ -10,10 +10,12 @@
     "static/js/2.fa37d4ca.chunk.js.map": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.map",
     "index.html": "/CryptoLand/index.html",
     "static/css/2.d44d9e5f.chunk.css.map": "/CryptoLand/static/css/2.d44d9e5f.chunk.css.map",
-    "static/css/main.c596cb8d.chunk.css.map": "/CryptoLand/static/css/main.c596cb8d.chunk.css.map",
+    "static/css/main.c7dfda24.chunk.css.map": "/CryptoLand/static/css/main.c7dfda24.chunk.css.map",
     "static/js/2.fa37d4ca.chunk.js.LICENSE.txt": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.LICENSE.txt",
     "static/media/h2-bit-l.ccaef87c.png": "/CryptoLand/static/media/h2-bit-l.ccaef87c.png",
     "static/media/h2-bit-m.9410d5d2.png": "/CryptoLand/static/media/h2-bit-m.9410d5d2.png",
+    "static/media/im1.1f39ad51.svg": "/CryptoLand/static/media/im1.1f39ad51.svg",
+    "static/media/im2.0209cf7c.svg": "/CryptoLand/static/media/im2.0209cf7c.svg",
     "static/media/intro.97a14e92.png": "/CryptoLand/static/media/intro.97a14e92.png",
     "static/media/text-shape.7861e70d.svg": "/CryptoLand/static/media/text-shape.7861e70d.svg",
     "static/media/white-logo.59b6d5dd.svg": "/CryptoLand/static/media/white-logo.59b6d5dd.svg"
@@ -22,7 +24,7 @@
     "static/js/runtime-main.89e76a0e.js",
     "static/css/2.d44d9e5f.chunk.css",
     "static/js/2.fa37d4ca.chunk.js",
-    "static/css/main.c596cb8d.chunk.css",
-    "static/js/main.7f71ccaa.chunk.js"
+    "static/css/main.c7dfda24.chunk.css",
+    "static/js/main.4ff08058.chunk.js"
   ]
 }
