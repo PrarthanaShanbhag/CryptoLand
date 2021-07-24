@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CryptoLand/static/css/main.65363c7b.chunk.css",
+    "main.css": "/CryptoLand/static/css/main.ce08cad4.chunk.css",
     "main.js": "/CryptoLand/static/js/main.7f71ccaa.chunk.js",
     "main.js.map": "/CryptoLand/static/js/main.7f71ccaa.chunk.js.map",
     "runtime-main.js": "/CryptoLand/static/js/runtime-main.89e76a0e.js",
@@ -10,7 +10,7 @@
     "static/js/2.fa37d4ca.chunk.js.map": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.map",
     "index.html": "/CryptoLand/index.html",
     "static/css/2.d44d9e5f.chunk.css.map": "/CryptoLand/static/css/2.d44d9e5f.chunk.css.map",
-    "static/css/main.65363c7b.chunk.css.map": "/CryptoLand/static/css/main.65363c7b.chunk.css.map",
+    "static/css/main.ce08cad4.chunk.css.map": "/CryptoLand/static/css/main.ce08cad4.chunk.css.map",
     "static/js/2.fa37d4ca.chunk.js.LICENSE.txt": "/CryptoLand/static/js/2.fa37d4ca.chunk.js.LICENSE.txt",
     "static/media/h2-bit-l.ccaef87c.png": "/CryptoLand/static/media/h2-bit-l.ccaef87c.png",
     "static/media/h2-bit-m.9410d5d2.png": "/CryptoLand/static/media/h2-bit-m.9410d5d2.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.89e76a0e.js",
     "static/css/2.d44d9e5f.chunk.css",
     "static/js/2.fa37d4ca.chunk.js",
-    "static/css/main.65363c7b.chunk.css",
+    "static/css/main.ce08cad4.chunk.css",
     "static/js/main.7f71ccaa.chunk.js"
   ]
 }
