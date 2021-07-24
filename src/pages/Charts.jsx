@@ -4,7 +4,7 @@ import axios from "axios";
 import CoinData from "./CoinData";
 import "../css/CoinData.css";
 import Header from '../components/Header'
-
+import Footer from '../components/Footer'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 import { useInterval } from './useInterval.js'
@@ -92,7 +92,7 @@ const Charts = () => {
           <br/> <br/> <br/> <br/>
          <HistoryChart days={coinsOneday} weeks={coinsOneWeek} years={coinsOneYear} details={coinDetails[0]} />
          <br/><br/><br/><br/>
-           
+           <Footer/>
         </div>
         
         )}

@@ -22,11 +22,12 @@
 th{
     text-align:start;
     padding-left: 50px;
+    
 }
 .table-head{
     border-top: 2px solid lightgray;
     border-bottom: 2px solid lightgray;
-    text-align: center;
+    text-align: start;
 }
 
 
@@ -59,7 +60,9 @@ tr{
 td{
     text-align: center;
 }
-
+.name{
+    text-align: start;
+}
 
 .flex-nowrap{
     margin-left: 30vw;

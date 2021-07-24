@@ -244,7 +244,7 @@ const Watchlist = () => {
 
                                     :
 
-                                    (<tr ><td colSpan={9}>No Coins added</td></tr>)
+                                    (<tr ><td colSpan={9}><center>No Coins added</center></td></tr>)
                             }
 
                         </tbody>
